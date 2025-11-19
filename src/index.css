@@ -1,0 +1,30 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+
+
+.image-rotator {
+ 
+  animation: spin 4s linear infinite; 
+ 
+}
+
+.image-rotator-fastest{
+  animation: spin 1s linear infinite;
+}
+
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.active{
+  color: blue
+}

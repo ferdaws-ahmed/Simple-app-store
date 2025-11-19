@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3257/3257860.png",
+    "title": "Astro Planner Pro",
+    "companyName": "StarGazer Labs",
+    "id": 101,
+    "description": "Astro Planner Pro is the ultimate companion for amateur and professional astronomers alike. This application offers real-time star charts, detailed information about celestial bodies, and predictive tools for major astronomical events. The new augmented reality feature allows users to point their device at the night sky and instantly identify constellations, planets, and deep-sky objects. Furthermore, the built-in telescope control feature connects seamlessly with compatible devices, enabling precision tracking and capturing stunning astrophotography. Users can also log their observations, share them with a community of enthusiasts, and participate in global stargazing challenges. The comprehensive database is updated weekly with the latest astronomical findings and satellite trajectories, ensuring you never miss a cosmic spectacle. We are dedicated to providing the most accurate and engaging celestial viewing experience.",
+    "size": 150,
+    "reviews": 15200,
+    "ratingAvg": 4.8,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 8750 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3039/3039659.png",
+    "title": "Zen Garden Meditation",
+    "companyName": "Mindful Software Inc.",
+    "id": 102,
+    "description": "Zen Garden Meditation offers a personalized path to tranquility and stress reduction. It features hundreds of guided meditations ranging from 5-minute quick breaks to 60-minute deep sleep sessions, all categorized by mood, time of day, and specific goal (e.g., focus, anxiety relief, self-compassion). The app includes ambient soundscapes like rainfall, forest noise, and gentle music to aid relaxation. A unique feature is the 'Daily Mood Tracker,' which uses advanced AI to analyze user input and recommend tailored exercises. Moreover, it integrates seamlessly with health apps to track heart rate variability and sleep cycles, providing holistic insights into well-being. Regular updates introduce new expert-led courses on topics like mindful eating and relationship communication, fostering a continuous journey toward inner peace and improved mental clarity.",
+    "size": 95,
+    "reviews": 28000,
+    "ratingAvg": 4.5,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 8900 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/8672/8672957.png",
+    "title": "Pixel Art Maker 3000",
+    "companyName": "Creative Byte Studios",
+    "id": 103,
+    "description": "Unleash your creativity with Pixel Art Maker 3000, the definitive tool for crafting stunning retro-style graphics. This app provides a versatile canvas with customizable grid sizes, an expansive color palette with hex code support, and advanced layering capabilities. It supports drawing, animating, and exporting your pixel masterpieces in various formats, including PNG, GIF, and spritesheets. Key features include onion-skinning for smooth animation creation, a dynamic mirroring tool, and an unlimited undo/redo history. The integrated community gallery allows artists to share their work, gain inspiration, and participate in weekly pixel art challenges. Whether you're designing assets for a game, creating nostalgic icons, or simply experimenting with digital art, this application offers the precision and flexibility you need to bring your vision to life with every tiny square.",
+    "size": 68,
+    "reviews": 11500,
+    "ratingAvg": 4.7,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 4250 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1041/1041916.png",
+    "title": "Quantum Fitness Tracker",
+    "companyName": "HealthTech Dynamics",
+    "id": 104,
+    "description": "Quantum Fitness Tracker moves beyond simple step counting by utilizing advanced machine learning algorithms to personalize every aspect of your wellness journey. It accurately monitors over 20 distinct activities, from swimming and cycling to weightlifting and yoga. The app provides real-time coaching feedback, correcting your form using the device's camera and motion sensors. Beyond activity, it tracks nutritional intake with a vast, verifiable food database and offers meal prep suggestions based on your dietary restrictions and fitness goals. Detailed recovery metrics, including HRV (Heart Rate Variability) analysis and sleep stage breakdown, give you a holistic view of your body's readiness. With interactive 3D visualizations of your progress and competitive virtual races with global users, staying motivated has never been easier or more technologically integrated.",
+    "size": 180,
+    "reviews": 42000,
+    "ratingAvg": 4.9,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 33500 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/620/620786.png",
+    "title": "Echo Verse Writer",
+    "companyName": "Literary Nexus",
+    "id": 105,
+    "description": "Echo Verse Writer is a clean, distraction-free environment designed for poets, novelists, and scriptwriters. The minimalist interface ensures total focus on your words, while powerful organizational tools keep your complex projects manageable. Features include an automatic cloud sync across all devices, version history tracking, and a unique 'Plot Navigator' to map out story arcs and character timelines visually. The app also integrates a robust thesaurus and dictionary, and a 'Flow State' mode that rewards continuous writing with ambient sound effects. For the final touch, the built-in publishing assistant formats your manuscript according to industry standards, ready for submission or self-publication. It’s more than a word processor; it's a dedicated workspace for bringing your narrative dreams to fruition.",
+    "size": 55,
+    "reviews": 9800,
+    "ratingAvg": 4.6,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/5752/5752007.png",
+    "title": "Global Cuisine Master",
+    "companyName": "Taste Bud Ventures",
+    "id": 106,
+    "description": "Dive into the world of flavors with Global Cuisine Master, featuring a curated collection of over 10,000 international recipes, from classic French techniques to obscure Indonesian street food. Each recipe comes with high-definition step-by-step videos, printable shopping lists that intelligently combine ingredients from multiple recipes, and user-adjustable serving sizes. The innovative 'Pantry Inventory' feature lets you input the ingredients you currently have, and the app instantly suggests meals you can cook, minimizing waste. Dietary filters are extensive, supporting vegan, keto, paleo, and all major allergen requirements. A dynamic cooking mode keeps your screen awake and reads instructions aloud, making the kitchen experience hands-free and seamless.",
+    "size": 110,
+    "reviews": 35000,
+    "ratingAvg": 4.7,
+    "downloads": 5,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 10900 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/6062/6062646.png",
+    "title": "Code Challenge Arena",
+    "companyName": "DevSkill Builders",
+    "id": 107,
+    "description": "Code Challenge Arena is the ultimate platform for sharpening your programming skills across 15 different languages including JavaScript, Python, and C++. It features a constantly updated library of algorithmic problems, real-world coding challenges, and mock interview questions categorized by difficulty and topic. The in-app code editor supports syntax highlighting and instant compilation, providing immediate feedback on your solutions. Users can join live coding competitions with global leaderboards, earning badges and unlocking advanced materials. Detailed explanations and community-driven solutions for every problem help accelerate the learning curve. This is an essential tool for any aspiring or professional developer preparing for technical interviews or simply looking to master complex data structures and algorithms.",
+    "size": 72,
+    "reviews": 18500,
+    "ratingAvg": 4.9,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 3750 },
+      { "name": "5 star", "count": 14000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/833/833306.png",
+    "title": "Budget Boss Finance",
+    "companyName": "Money Flow Solutions",
+    "id": 108,
+    "description": "Take control of your financial future with Budget Boss Finance. This comprehensive personal finance manager allows you to link all your bank accounts (securely via encrypted protocols) for a holistic view of your wealth. It automatically categorizes transactions, sets customizable spending limits, and forecasts your cash flow based on recurring bills and income. The app generates detailed, easy-to-understand reports on your spending habits, helping you identify areas for saving. Unique features include goal-setting for retirement, debt payoff calculators, and personalized investment recommendations tailored to your risk tolerance. With real-time notifications for unusual activity and comprehensive tax-preparation reports, achieving financial literacy and stability has never been simpler.",
+    "size": 88,
+    "reviews": 23400,
+    "ratingAvg": 4.6,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 550 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1000/1000673.png",
+    "title": "Language Leap Academy",
+    "companyName": "Polyglot Systems",
+    "id": 109,
+    "description": "Language Leap Academy provides an immersive, gamified environment to master over 30 languages. Unlike traditional apps, it focuses on conversational fluency from day one, using a curriculum developed by cognitive linguists. Lessons are delivered through interactive dialogues, speech recognition exercises for pronunciation accuracy, and cultural context insights. The 'Virtual Tutor' feature provides instant feedback and personalized practice sessions based on your weakest areas. Users can engage in live video chats with native speakers from around the world through the 'Language Exchange' community. Progress is tracked through a vibrant skill tree, motivating learners with real-world scenarios and context-specific vocabulary. Start your journey from beginner to fluent communicator today.",
+    "size": 130,
+    "reviews": 55000,
+    "ratingAvg": 4.7,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 4400 },
+      { "name": "4 star", "count": 18000 },
+      { "name": "5 star", "count": 31000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1041/1041926.png",
+    "title": "Ultimate Photo Editor X",
+    "companyName": "Image Magic Corp",
+    "id": 110,
+    "description": "Ultimate Photo Editor X offers professional-grade image manipulation tools in a user-friendly mobile interface. It features non-destructive editing, full support for RAW files, and a comprehensive suite of filters, effects, and blend modes. Advanced features include layer-based editing for complex composites, selective adjustments using precision masks, and AI-powered object removal and sky replacement. The app provides a massive library of customizable presets and allows users to create and share their own. With real-time histogram display, customizable brush settings, and high-resolution export capabilities, it is the only mobile editor you need for stunning visual content creation, rivaling desktop software in power and flexibility.",
+    "size": 220,
+    "reviews": 65000,
+    "ratingAvg": 4.8,
+    "downloads": 6,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 19000 },
+      { "name": "5 star", "count": 41000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/2311/2311904.png",
+    "title": "Task Flow Manager",
+    "companyName": "Productivity Hub",
+    "id": 111,
+    "description": "Task Flow Manager revolutionizes how individuals and teams organize their day. It blends the simplicity of a to-do list with the power of project management software. Features include Kanban boards, Gantt charts, customizable templates for various projects, and seamless integration with calendar applications. The unique 'Priority Matrix' algorithm helps users automatically sort tasks based on urgency and importance. Team collaboration tools allow for easy task delegation, progress tracking, and real-time commenting. Automated reminders and recurring task scheduling ensure deadlines are never missed, transforming overwhelming workloads into manageable daily steps. It's the central nervous system for your personal and professional productivity.",
+    "size": 60,
+    "reviews": 14000,
+    "ratingAvg": 4.7,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 5600 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/3256/3256860.png",
+    "title": "Fantasy Realm RPG",
+    "companyName": "Epic Games Studio",
+    "id": 112,
+    "description": "Enter the breathtaking world of Fantasy Realm, a massive multiplayer online role-playing game (MMORPG) with an open world spanning four distinct continents. Featuring dynamic weather systems, player-driven economy, and real-time combat mechanics, the game offers hundreds of hours of immersive content. Choose from five unique classes, customize your skills with a non-linear progression system, and join guilds for epic raid battles against mythological creatures. The deep crafting system allows players to become master blacksmiths, alchemists, or enchanters. Regular seasonal events introduce new dungeons, quests, and lore expansions, ensuring the adventure never ends. Experience console-quality graphics and a story that reacts to your choices in this truly boundless fantasy universe.",
+    "size": 980,
+    "reviews": 125000,
+    "ratingAvg": 4.4,
+    "downloads": 15,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 38000 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/751/751457.png",
+    "title": "Simple Stock Tracker",
+    "companyName": "Wall Street Mobile",
+    "id": 113,
+    "description": "Simple Stock Tracker offers a clean, real-time interface for monitoring global stock markets, cryptocurrencies, and commodities. Create and manage multiple watchlists, set personalized price alerts, and view interactive charts with a wide range of technical indicators (e.g., MA, RSI, MACD). The app provides essential news headlines filtered by portfolio relevance, ensuring you're always informed about market-moving events. It is integrated with major brokerage accounts for seamless trading execution (read-only mode is also available). Unlike complex platforms, it focuses on clarity and speed, making it perfect for both novice and experienced investors who need quick, reliable data on the go.",
+    "size": 45,
+    "reviews": 9200,
+    "ratingAvg": 4.5,
+    "downloads": 8,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/10023/10023157.png",
+    "title": "Home Decor 3D Preview",
+    "companyName": "Interior Design Tech",
+    "id": 114,
+    "description": "Visualize your dream home renovation before lifting a finger with Home Decor 3D Preview. This application uses augmented reality (AR) to overlay furniture, paint colors, and textures onto a live view of your room. Simply scan your space, and the app builds a scale-accurate 3D model, allowing you to drag-and-drop thousands of items from major retailers. Test different lighting conditions, view materials up close, and measure distances precisely, all within the app. The integrated mood board creator helps compile your favorite designs, and the built-in sharing tool allows you to collaborate instantly with family or professional designers. It removes the guesswork from decorating and saves you time and money on costly design mistakes.",
+    "size": 350,
+    "reviews": 18000,
+    "ratingAvg": 4.7,
+    "downloads": 9,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 9000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/1077/1077894.png",
+    "title": "Travel Buddy Maps",
+    "companyName": "Explorer's Edge",
+    "id": 115,
+    "description": "Travel Buddy Maps is your all-in-one trip planning and navigation tool, designed specifically for explorers who frequently go off-grid. It allows users to download detailed, high-resolution maps for offline use, covering terrain, hiking trails, and city layouts globally. The app features a collaborative itinerary builder, letting you plot routes, estimate travel times, and share plans with companions. A unique 'POI Discovery' engine suggests hidden gems, local eateries, and cultural sites based on user-generated reviews and local data. Built-in currency conversion, phrasebooks for key languages, and emergency contact information make it an indispensable asset for worry-free international travel, ensuring you are always oriented and prepared, no matter how remote your destination.",
+    "size": 190,
+    "reviews": 21000,
+    "ratingAvg": 4.6,
+    "downloads": 10,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 8200 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/758/758410.png",
+    "title": "Daily Habit Builder",
+    "companyName": "Consistency Labs",
+    "id": 116,
+    "description": "Daily Habit Builder uses behavioral science to help you form lasting positive routines and break bad ones. The interface is based on a 'streak' system, visually rewarding continuous effort and motivating users to maintain consistency. It features customizable habit tracking, atomic habit grouping, and flexible scheduling options (daily, weekly, specific days). The app provides detailed analytics on your completion rates and peak productivity times. Unique 'accountability partner' features allow users to share their progress with friends or join public groups for support and motivation. With intelligent reminders that adapt to your success rate, this tool guides you step-by-step toward achieving long-term personal and professional goals through small, manageable actions.",
+    "size": 52,
+    "reviews": 26000,
+    "ratingAvg": 4.8,
+    "downloads": 12,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 17000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/10003/10003197.png",
+    "title": "Music Creation Station",
+    "companyName": "Audio Innovators",
+    "id": 117,
+    "description": "Music Creation Station is a fully-featured, portable digital audio workstation (DAW) for making music on the go. It includes a multi-track recorder, virtual instruments (synthesizers, drums, samplers), and a comprehensive library of loops and one-shots across various genres. The intuitive piano roll editor allows for precise MIDI sequencing, and the mixer console provides professional-grade effects (EQ, reverb, compression) and automation capabilities. Users can record live audio, edit vocal tracks, and share high-quality WAV or MP3 exports directly. Its modular interface is designed for touch control, offering both beginners and seasoned producers a powerful yet accessible platform to compose, arrange, and mix their next hit track, anytime and anywhere.",
+    "size": 420,
+    "reviews": 11800,
+    "ratingAvg": 4.5,
+    "downloads": 11,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4850 },
+      { "name": "5 star", "count": 4300 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/114/114639.png",
+    "title": "Sci-Fi Action Shooter",
+    "companyName": "Future Warfare Inc.",
+    "id": 118,
+    "description": "Dive into the intense, fast-paced action of Sci-Fi Action Shooter, a competitive first-person shooter set in a dystopian future. The game features stunning next-gen graphics, a variety of unique maps, and a vast arsenal of futuristic weapons with deep customization options. Choose from several different game modes, including team deathmatch, capture the flag, and a challenging battle royale mode for up to 100 players. The advanced matchmaking system ensures fair, skill-based competition. Earn experience to unlock new cosmetic items, unique abilities, and legendary weapon skins. With dedicated servers and minimal latency, experience fluid gameplay and adrenaline-pumping battles that demand precision and tactical team coordination.",
+    "size": 1500,
+    "reviews": 95000,
+    "ratingAvg": 4.2,
+    "downloads": 15,
+    "ratings": [
+      { "name": "1 star", "count": 8000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 18000 },
+      { "name": "4 star", "count": 29000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/82/82438.png",
+    "title": "Vintage Film Camera",
+    "companyName": "Nostalgia Lens",
+    "id": 119,
+    "description": "Vintage Film Camera brings the authentic look and feel of classic analog photography to your modern device. The app simulates over 50 famous film stocks (Kodak, Fuji, Ilford), each with unique grain structures, color shifts, and light leaks. Choose from different vintage camera interfaces, including rangefinder and TLR simulations. Features include manual controls for exposure, focus, and white balance, as well as a 'Darkroom' mode for non-destructive post-processing like burning, dodging, and toning. The resulting images carry the rich, warm, and unpredictable charm of true film photography, perfect for giving your digital memories a timeless, handcrafted aesthetic.",
+    "size": 105,
+    "reviews": 19500,
+    "ratingAvg": 4.7,
+    "downloads": 14,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1550 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 11000 }
+    ]
+  },
+  {
+    "image": "https://cdn-icons-png.flaticon.com/512/10085/10085888.png",
+    "title": "Secure VPN Shield",
+    "companyName": "Digital Fortress Ltd.",
+    "id": 120,
+    "description": "Secure VPN Shield provides a robust, encrypted connection to protect your online privacy and security. With servers in over 60 countries, you can bypass geographical restrictions and access content from anywhere in the world at lightning-fast speeds. The app employs military-grade AES-256 encryption and strictly adheres to a 'no-logs' policy, ensuring your browsing history, IP address, and location remain entirely private. Features include a built-in kill switch to prevent data leaks if the connection drops, split tunneling for customizing which apps use the VPN, and automatic Wi-Fi protection. It is a one-click solution to securing your digital life against hackers, trackers, and surveillance, offering true anonymity on any network, public or private.",
+    "size": 40,
+    "reviews": 32000,
+    "ratingAvg": 4.9,
+    "downloads": 7,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 23000 }
+    ]
+  }
+]
